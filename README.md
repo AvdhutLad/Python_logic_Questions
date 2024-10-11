@@ -1,12 +1,12 @@
-# Java Logic Questions
+# Python Logic Questions
 
 ## Overview
-This repository contains solutions to a wide range of **Java** logical coding problems. The problems range from basic to advanced levels and are aimed at improving problem-solving skills using Java.
+This repository is dedicated to solving logical coding problems in **Python**. It covers problems from beginner to advanced levels and is intended to help improve problem-solving skills using Python's powerful features.
 
-The repository is a **work in progress**, and more solutions will be added over time as I continue solving new challenges.
+The repository is continuously being updated, as it's a **work in progress**.
 
 ## Sections
-- **Basic**: Includes simple logical problems covering loops, conditionals, and basic data structures.
-- **Intermediate**: Covers problems that involve arrays, strings, and common algorithms.
-- **Advanced**: Contains complex problems involving recursion, dynamic programming, and advanced algorithmic challenges.
+- **Basic**: Contains beginner-friendly questions to get started with Python and logical thinking.
+- **Intermediate**: Focuses on solving problems using lists, dictionaries, loops, and conditionals.
+- **Advanced**: Includes more challenging problems requiring deeper understanding of algorithms and Python-specific features like list comprehensions, generators, etc.
 
